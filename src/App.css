@@ -14,7 +14,9 @@ img {
 .img-container {
   position: relative;
 }
-
+.container-fav{
+  margin-bottom: 3em;
+}
 .container-fav,
 .container-random {
   display: flex;
@@ -78,4 +80,16 @@ svg:hover {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+}
+
+input{
+  margin: .2rem 1rem;
+  width: 50px;
+
+  border: none;
+  outline: none;
+}
+
+input:focus{
+  outline: 3px dashed #64a6dfd4;
 }

@@ -18,7 +18,7 @@ function App() {
     <>
       <div className='banner'>
         <p >
-          By <a href="https://nicolasarevalo.tk">Nico</a>
+          By <a href="https://niiico.com">Nico</a>
         </p>
       </div>
 
@@ -26,9 +26,6 @@ function App() {
       <Favs />  {/* 
         <SubirPerrito />
  */}
-      <div >
-        <div id="mssg" />
-      </div>
     </>
   );
 }
