@@ -23,9 +23,7 @@ function App() {
       </div>
 
       <PerritosAleatorios />
-      <Favs />  {/* 
-        <SubirPerrito />
- */}
+      <Favs />
     </>
   );
 }
